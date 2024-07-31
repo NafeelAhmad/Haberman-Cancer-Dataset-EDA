@@ -37,7 +37,7 @@
 
 5) 19.5% Patients are not survived that have nodes 5 or less.
 
-6)75.7% Patients are succuessfilly survived whose nodes are 15 or less.
+6) 75.7% Patients are succuessfilly survived whose nodes are 15 or less.
 
 7) 24.3% Patients are not survived having nodes 15 or less.
 
