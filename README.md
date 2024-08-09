@@ -41,8 +41,10 @@
 
 7) 24.3% Patients are not survived having nodes 15 or less.
 
-8) 7.1% Patients are those who have nodes are more than 15.
+*Top Key Insights: Patients aged 40 or younger with 5 or fewer lymph nodes are more likely to survive, highlighting the significant impact of both age and the number of lymph nodes on survival outcomes.*
 
-9) n that 54.5% Patients are died and 45.45% are survived
+9) 7.1% Patients are those who have nodes are more than 15.
 
-10) Most pateint survived having nodes greater than 15 and age more than 40 due to their operation in the year that have higher recovery rate like 1961, 1962, 1966 & 1967.
+10) n that 54.5% Patients are died and 45.45% are survived
+
+11) Most pateint survived having nodes greater than 15 and age more than 40 due to their operation in the year that have higher recovery rate like 1961, 1962, 1966 & 1967.
